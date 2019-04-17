@@ -16,6 +16,7 @@
 - [Nick Renaud](https://github.com/NickRenaud74)
 - [Martin Ramos](https://github.com/martin292)
 - [Ali Kassir](https://github.com/AliKassir)
+- Venice Servellita 
 - yasmiyazaki
 - Sampath MS (https://github.com/sampath-ms/)
 - [blue18](https://github.com/blue18)
